@@ -1,0 +1,4 @@
+Para acessar o programa é necessário utilizar esta credencual:
+
+Login: admin
+Senha: admin
