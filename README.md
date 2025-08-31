@@ -31,7 +31,7 @@ Basta baixar, extrair e executar o programa!
 🛠️ Como Usar
 Baixe o repositório ou clone com:
 
-git clone https://github.com/SeuUsuario/CadastroGUI.git
+git clone https://github.com/CleyGB-Dev/CadastroGUI.git
 
 Vá até a pasta bin e execute o arquivo cadastro.exe.
 
